@@ -1,0 +1,12 @@
+p{
+  color:white;
+  font-style: oblique; 
+  border: 4; 
+}
+h1{
+color: red;
+}
+body{
+    background-image: url("tiger.jpg");
+    background-size: cover;
+}
