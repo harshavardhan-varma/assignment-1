@@ -1,0 +1,89 @@
+.back1{
+    background-image: url('image1.jpg');
+    background-size: cover;
+}
+.back2{
+    background-image: url('image5.jpg');
+    background-size: cover;
+}
+.back3{
+    background-image: url('image4.jpg');
+    background-size: cover;
+}
+.page{
+    height:640px;
+    width:1280px;
+    border: 1px solid;
+    border-color: black;
+}
+.profilepic{
+    margin:90px 0 0 230px;
+    width:150px;
+    height:200px;
+    border-radius: 20px;
+    box-shadow:5px 5px 8px cadetblue;
+}
+.nam{
+   padding-left:140px;
+   color:cadetblue;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.sub{
+    padding-left:220px;
+    color:cadetblue;
+}
+.but{
+    margin:50px 0 0 250px;
+    border:1px solid;
+    border-color:aquamarine;
+    height:22px;
+    width:80px;
+    padding:10px;
+}
+.but:hover{
+    background-color:darkcyan;
+}
+.but1{
+    margin:50px 0 0 220px;
+    border:1px solid;
+    border-color:darkkhaki;
+    height:22px;
+    width:80px;
+    padding:10px;
+    
+}
+a{
+    text-decoration:none;
+    color:aquamarine;
+}
+.tit1{
+    text-align:right;
+    margin:80px 280px 0 0;
+    font-size:50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(70, 130, 190);
+}
+.skil{
+    margin:80px 100px 0 880px; 
+    color:lightblue;
+}
+.co{
+    margin:50px 0 0 220px;
+    color:khaki;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:40px;
+}
+.but1:hover{
+    background-color:khaki;
+    color:black;
+}
+table{
+        margin:60px 0 0 180px;
+        color:lightyellow;
+}
+a:hover{
+    color:black;
+}
+body{
+    background-color:rgb(247, 8, 60);
+}
